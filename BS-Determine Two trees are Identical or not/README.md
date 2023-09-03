@@ -1,5 +1,5 @@
 <h1 align="center">DSA Topic-Binary Tree</h1>
-<h2 align="center"><a href="">Determine two Tree are Identical or not</a></h2>
+<h2 align="center"><a href="https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article">Determine two Tree are Identical or not</a></h2>
 <hr>
 <h2 align="center">GFG-Easy</h2>
 <h3><em>Time Complexcity - </em><strong>O(N)</strong></h3>
